@@ -3,3 +3,4 @@ langchain-anthropic
 langchain
 dotenv
 langchain-google-genai
+langchain-groq
