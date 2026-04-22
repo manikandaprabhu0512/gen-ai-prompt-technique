@@ -6,3 +6,7 @@ langchain-google-genai
 langchain-groq
 langchain-community
 langgraph
+streamlit
+pypdf
+beautifulsoup4
+wikipedia
