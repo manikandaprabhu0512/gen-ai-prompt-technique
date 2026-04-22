@@ -10,3 +10,4 @@ streamlit
 pypdf
 beautifulsoup4
 wikipedia
+langchain_text_splitters
